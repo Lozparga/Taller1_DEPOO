@@ -1,0 +1,13 @@
+tipo:corriente:20000:1400
+tipo:extra:18000:560.25
+tipo:diesel:50000:239
+tipo:acpm:32000:3045
+surtidor:Luis:corriente:55.7:extra:25.12:diesel:14.5:acpm:18.3
+surtidor:Camila:corriente:33.14:extra:9:diesel:12.3:acpm:34.2
+surtidor:Patricio:corriente:14:extra:0:diesel:37:acpm:4
+surtidor:June:extra:16:acpm:7
+empleado:Luis:340000
+empleado:Camila:230456
+empleado:Patricio:23000
+empleado:June:4256
+empleado:Erika:45
